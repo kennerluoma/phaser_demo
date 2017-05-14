@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    {"image": "ground",       "x": 0,   "y": 546},
+    {"image": "platform:8x1", "x": 300, "y": 420},
+    {"image": "platform:2x1", "x": 172, "y": 336},
+    {"image": "platform:1x1", "x": 450, "y": 504},
+    {"image": "platform:4x1", "x": 0,   "y": 252},
+    {"image": "platform:6x1", "x": 368, "y": 198},
+    {"image": "platform:2x1", "x": 798, "y": 84}
+  ],
+  "hero": {"x": 21, "y": 525},
+  "rats": [
+    {"x": 121, "y": 399},
+    {"x": 800, "y": 362},
+    {"x": 500, "y": 147}],
+  "gem": {"x": 169, "y": 546}
+}
